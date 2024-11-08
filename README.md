@@ -490,10 +490,6 @@ This function adds buttons to a push message, that can be clicked to interact wi
 
 Alarmo has built-in support for actionable push notification with the 'failed to arm' condition. 
 
-Example:
-
-<img src="https://raw.githubusercontent.com/Vioneta/vioneta-alarm-integration/main/screenshots/actionable_push_message.png" width="400">
-
 **Available actions**
 
 The following actions are defined in Alarmo and can be used in actionable notifications:
