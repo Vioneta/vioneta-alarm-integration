@@ -11,7 +11,7 @@ jobs:
 
       - name: Get version
         id: version
-        uses: home-assistant/actions/helpers/version@master
+        uses: Vioneta/actions/helpers/version@master
 
       - name: Patch manifest and zip
         run: |
